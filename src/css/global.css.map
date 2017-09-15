@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,CAAE;EACD,gBAAgB,ECCA,OAAO;;;ADExB,EAAG;EACF,gBAAgB,ECFC,OAAO",
+"sources": ["../scss/custom.scss","../scss/variables.scss"],
+"names": [],
+"file": "global.css"
+}
